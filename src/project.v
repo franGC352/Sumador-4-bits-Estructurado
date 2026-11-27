@@ -1,7 +1,7 @@
 // Code your testbench here
 // or browse Examples
 
-module calculadora_resistencia (
+module tt_um_calculadora_resistencia (
 
     input  wire [3:0] banda1,
     input  wire [3:0] banda2,
