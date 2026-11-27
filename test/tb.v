@@ -1,7 +1,7 @@
 
 `timescale 1ns/1ps
 
-module testbench;
+module tb;
 
     reg [7:0] ui_in;
     reg [7:0] uio_in;
