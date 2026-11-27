@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "CalculadoraDeResistencias"      # Project title
+  title:        "calculadora_resistencia"      # Project title
   author:       "Francisco Garcia C"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
